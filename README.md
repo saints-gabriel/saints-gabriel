@@ -1,17 +1,17 @@
-<h1 align="center">👋 Hi, my name is Gabriel / AKA thek1llerbadger </h1>
+<h1 align="center">👋 Hi, my name is Gabriel </h1>
 <h2 align="center">
-  💻 Estudante de Desenvolvimento de Sistemas | 🌍 Estagiário de TI em Mitsubishi Sekai
+  💻 Estudante de Desenvolvimento de Sistemas @ Senai <br>
+  🌍 Estagiário de TI em Mitsubishi Sekai
 </h2><br><br>
 
 - 👀 Sou interessado em criar códigos pequenos e pequenos jogos
 - 🌱 Estou aprendendo Lua, JS, React & Python
 - 🗣️ Fluente em Inglês e Português
 - 🤓 Fiz um trabalho de "Feira de ciências", envolvendo um quiz em forma de site, com JS como linguagem de programação 
-- 💞️ Quero colaborar em projetos onde posso aprender novas linguagens e conhecer novas pessoas 
-- 📫 Como me contatar: gabrieldossantosmartins05@gmail.com
-
-
-
+- 💞️ Quero colaborar em projetos onde posso aprender novas linguagens e conhecer novas pessoas
+- 📫 Como me contatar: <hr>
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)<br> <h2>gabrieldossantosmartins05@gmail.com</h2>
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)<br> <h2>@thek1llerbadger</h2>
 
 ## 🚀 Linguagens de programação
 [![My Skills](https://skillicons.dev/icons?i=javascript,html,css,lua,python,nodejs,react)](https://skillicons.dev)<br><br>
