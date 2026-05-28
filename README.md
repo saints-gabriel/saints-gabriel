@@ -20,7 +20,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,git,postgres,godot)](https://skillicons.dev)<br><br>
 
 ## Sistemas Operacionais
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,windows)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,debian,windows)](https://skillicons.dev)<br><br>
 
 ## 📫 Contatos
 
