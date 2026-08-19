@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hi, my name is Gabriel </h1>
 <h2 align="center">
-  💻 Estudante de Desenvolvimento de Sistemas @ Senai <br>
-  🌍 Estagiário de TI em Mitsubishi Sekai
+  💻 Estudante de Desenvolvimento de Sistemas @ Senai
 </h2><br><br>
 
 - 👀 Sou interessado em criar códigos pequenos e pequenos jogos
