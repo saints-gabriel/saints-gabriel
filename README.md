@@ -13,10 +13,10 @@
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)<br> <h2>@thek1llerbadger</h2>
 
 ## 🚀 Linguagens de programação
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,lua,python,nodejs,react)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,lua,python,nodejs,bun,react)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,git,postgres,godot)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,git,postgres,godot,docker)](https://skillicons.dev)<br><br>
 
 ## Sistemas Operacionais
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,debian,windows)](https://skillicons.dev)<br><br>
