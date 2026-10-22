@@ -4,7 +4,8 @@
 </h2><br><br>
 
 - 👀 Sou interessado em criar códigos pequenos e pequenos jogos
-- 🌱 Estou aprendendo Lua, JS, React & Python
+- 🌱 Estou aprendendo Lua & Python
+- 🌳 Tenho experiência com JavaScript e React
 - 🗣️ Fluente em Inglês e Português
 - 🤓 Fiz um trabalho de "Feira de ciências", envolvendo um quiz em forma de site, com JS como linguagem de programação 
 - 💞️ Quero colaborar em projetos onde posso aprender novas linguagens e conhecer novas pessoas
