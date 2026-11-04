@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=javascript,html,css,lua,python,nodejs,bun,react)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,git,postgres,godot,docker)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,git,postgres,sqlite,godot,docker)](https://skillicons.dev)<br><br>
 
 ## Sistemas Operacionais
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,debian,windows)](https://skillicons.dev)<br><br>
